@@ -1,7 +1,3 @@
-# East Bay Plastic & Reconstructive Surgery
-
-**Digital Strategy & Website Transformation Case Study**
-
 ![Digital%20Strategy](https://img.shields.io/badge/Digital-Strategy-blue)
 ![SEO](https://img.shields.io/badge/SEO-Technical%20Audit-green)
 ![UX](https://img.shields.io/badge/UX-Wireframing%20%26%20IA-purple)
@@ -10,11 +6,15 @@
 ![Figma](https://img.shields.io/badge/Figma-Design%20Assets-black?logo=figma)
 ![GitHub](https://img.shields.io/badge/GitHub-Documentation-black?logo=github)
 
+# East Bay Plastic & Reconstructive Surgery
+
+**Digital Strategy & Website Transformation Case Study**
+
 ---
 
 ## Project Overview
 
-This repository documents a **digital rebranding and website transformation project** conducted for **East Bay Plastic & Reconstructive Surgery**, a medical practice offering both **reconstructive** and **cosmetic** services.
+This repository documents a **digital rebranding and website transformation project** conducted for **[East Bay Plastic & Reconstructive Surgery](https://www.bayplasticsurgery.com/)**, a medical practice offering both **reconstructive** and **cosmetic** services.
 
 The project focused on **brand repositioning, website modernization, SEO remediation, and HIPAA-aware lead generation planning**, with an emphasis on creating a scalable digital foundation that supports both **insurance-based patients** and **cash-pay cosmetic clients**.
 
