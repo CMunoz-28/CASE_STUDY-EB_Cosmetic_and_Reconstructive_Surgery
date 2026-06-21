@@ -4,11 +4,19 @@
 ![WordPress](https://img.shields.io/badge/WordPress-CMS-blue?logo=wordpress)
 ![HIPAA](https://img.shields.io/badge/HIPAA-Compliant%20Planning-red)
 ![Figma](https://img.shields.io/badge/Figma-Design%20Assets-black?logo=figma)
-![GitHub](https://img.shields.io/badge/GitHub-Documentation-black?logo=github)
+![SBDC](https://img.shields.io/badge/NorCal%20SBDC-Marketing%20Advisor-orange)
 
 # East Bay Plastic & Reconstructive Surgery
 
 **Digital Strategy & Website Transformation Case Study**
+
+---
+
+## Context
+
+This project was completed as part of my work as a **Marketing Advisor at the [NorCal Small Business Development Center (SBDC)](https://norcalsbdc.org/)**, where I provide no-cost, confidential marketing advising to small business owners across the East Bay. The SBDC is a federally funded program supporting small business growth through advising, education, and resources.
+
+This engagement was one of several client projects I managed through the SBDC, and represents the full scope of a multi-session consulting engagement — from initial audit through strategy, design, and migration planning.
 
 ---
 
@@ -33,7 +41,7 @@ The project focused on **brand repositioning, website modernization, SEO remedia
 
 ## Project Architecture
 
-The repository is organized to reflect a **real consulting / agency workflow**, separating strategy, design, and migration execution.
+The repository is organized to reflect a **real consulting workflow**, separating strategy, design, and migration execution.
 
 ```
 East_Bay_Plastic_&_Reconstructive_Surgery_Rebrand/
@@ -51,7 +59,7 @@ East_Bay_Plastic_&_Reconstructive_Surgery_Rebrand/
 ├── Strategy Documents/
 │   ├── CMS Platform Comparison Proposal.xlsx
 │   ├── Project Timelines [June 2025].xlsx
-│   ├── Website Audit Report.pdf
+│   ├── Website Audit Report.xlsx
 │   └── Website Redesign Opportunities.pdf
 │
 └── README.md
@@ -61,10 +69,9 @@ East_Bay_Plastic_&_Reconstructive_Surgery_Rebrand/
 
 ## My Role & Contributions
 
-I led the **strategy, analysis, and documentation** for this engagement, including:
+I led the **strategy, analysis, and documentation** for this engagement through the NorCal SBDC, including:
 
-* Conducted a **full content inventory & technical SEO audit**
-  (137+ indexed pages)
+* Conducted a **full content inventory & technical SEO audit** (137+ indexed pages)
 * Developed a **rebranding and CMS evaluation proposal**
 * Compared CMS platforms with emphasis on **SEO scalability and HIPAA compatibility**
 * Designed **desktop & mobile wireframes**, visual sitemap, and homepage layout
@@ -76,17 +83,10 @@ I led the **strategy, analysis, and documentation** for this engagement, includi
 
 ## Tools & Platforms Used
 
-* **Strategy & Analysis:**
-  Google Sheets, Screaming Frog, PageSpeed Insights
-
-* **Design & UX:**
-  Figma, Canva, Adobe Photoshop
-
-* **Web & CMS:**
-  WordPress, Jotform (HIPAA-compliant forms)
-
-* **Project Documentation:**
-  GitHub
+* **Strategy & Analysis:** Google Sheets, Screaming Frog, PageSpeed Insights
+* **Design & UX:** Figma, Canva, Adobe Photoshop
+* **Web & CMS:** WordPress, Jotform (HIPAA-compliant forms)
+* **Project Documentation:** GitHub
 
 ---
 
@@ -107,22 +107,21 @@ Explore the repository folders for:
 * **85% of legacy content successfully migrated**
 * Improved SEO structure (metadata, titles, schema recommendations)
 * Reduced technical issues and improved mobile usability
-* Positioned the practice to effectively target:
-
-  * Insurance-based reconstructive patients
-  * High-intent, cash-pay cosmetic patients
+* Positioned the practice to effectively target insurance-based reconstructive patients and high-intent, cash-pay cosmetic patients
 
 ---
 
-## ⚠️ Client & Compliance Disclaimer
+## Client & Compliance Disclaimer
 
-*This repository represents a real client engagement.*
+*This repository represents a real client engagement completed through the NorCal SBDC.*
 *All sensitive patient data has been excluded. Any workflows involving lead capture were designed with **HIPAA-aware best practices** in mind. Materials are shared for **portfolio and educational purposes only**.*
 
 ---
 
-## 📫 Contact
+## Contact
 
-**Carlos Munoz**
+**Carlos Muñoz** — Marketing Advisor, NorCal SBDC
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/carlos-m27/)
+* [LinkedIn](https://www.linkedin.com/in/carlos-m27/)
+* [GitHub](https://github.com/CMunoz-28)
+* [More SBDC Client Work](https://github.com/CMunoz-28/NorCal-SBDC-Marketing-Consulting)
